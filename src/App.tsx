@@ -16,7 +16,16 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - Deploy on Cloudflare
+          Learn React
+        </a>
+        <span> & </span>
+        <a
+          className="App-link"
+          href="https://www.cloudflare.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          Deploy on Cloudflare
         </a>
       </header>
     </div>
