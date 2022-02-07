@@ -25,7 +25,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
           >
-          Deploy on Cloudflare
+          Deploy on Cloudflare and say hi to Niklas.
         </a>
       </header>
     </div>
